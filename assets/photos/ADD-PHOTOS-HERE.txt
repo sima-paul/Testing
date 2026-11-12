@@ -1,0 +1,1 @@
+For final website photos, place image files in this folder. You can also use the photo picker on Memories page for a temporary preview.
